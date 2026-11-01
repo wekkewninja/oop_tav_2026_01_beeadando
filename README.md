@@ -311,7 +311,7 @@ flowchart TD
 - [x] Töltsd fel az összes fájlt egy **publikus** GitHub repositoryba
 - [x] Frissítsd a `NEPTUNKOD.docx` fájlt a publikus GitHub repository URL-jével
 - [x] Ellenőrizd, hogy a repository látható-e egy incognito böngészőablakban
-- [ ] Klónozd le a repositoryt PyCharm-ban, és győződj meg róla, hogy a `python main.py` hiba nélkül elindul
+- [x] Klónozd le a repositoryt egy temp mappába, és győződj meg róla, hogy a `python main.py` hiba nélkül elindul
 - [ ] Készíts egy 2–3 perces elevator pitch videót a futó alkalmazás bemutatásával, és töltsd fel a GitHub repositoryba
 - [ ] Töltsd fel a `NEPTUNKOD.docx` fájlt a Neptunon a „Kötelező project feladat" feladathoz
 - **Frissített határidő: 2026-12-06 23:59:59**
