@@ -5,8 +5,8 @@
 **Date:** 2026-04-19 
 **Approved by:** Czétényi Kristóf I62GFT
 **Approval date:** 2026-04-20 
-**PRD Reference:** `docs/prd-autokolcsonzo-rendszer.md` (PRD-001)  
-**Design Reference:** `docs/design-autokolcsonzo-rendszer.md`
+**PRD Reference:** `docs/02-prd-autokolcsonzo-rendszer.md` (PRD-001)
+**Design Reference:** `docs/03-design-autokolcsonzo-rendszer.md`
 
 ---
 

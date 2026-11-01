@@ -6,7 +6,7 @@
 **Approved by:** Czétényi Kristóf I62GFT
 **Approval date:** 2026-04-19 
 **Feature ID:** PRD-001  
-**Brief Reference:** `docs/briefs/autokolcsonzo-rendszer.md` (FB-001)
+**Brief Reference:** `docs/01-fb-autokolcsonzo-rendszer.md` (FB-001)
 
 ---
 
